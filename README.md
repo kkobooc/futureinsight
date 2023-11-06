@@ -6,6 +6,7 @@
   ```bash
   $ pip install -r requirements.txt
   ```
+### 상세 개발 내용 및 코드 주석은 makemodel.ipynb 참고
 
 ## 1. 룰 베이스를 기반으로 한 계산 및 도출
 - +2점부터 -2점까지의 계산법을 바탕으로, 4가지 기준의 유형을 도출해내는 방식
