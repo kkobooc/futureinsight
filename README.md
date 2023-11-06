@@ -32,7 +32,7 @@
 #### 1. 배깅(Bagging)이란?
 배깅(Bagging)은 Bootstrap Aggregating의 약자로, 보팅(Voting)과는 달리 동일한 알고리즘으로 여러 분류기를 만들어 보팅으로 최종 결정하는 알고리즘
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/kkobooc/futureinsight/assets/67237187/02f27b80-525e-486c-85de-3c96ee012d0c)
 
 - (1) 동일한 알고리즘을 사용하는 일정 수의 분류기 생성
 - (2) 각각의 분류기는 부트스트래핑(Bootstrapping)방식으로 생성된 샘플데이터를 학습
@@ -42,7 +42,7 @@
 #### 2. 랜덤포레스트(RandomForest)
 랜덤 포레스트는 여러 개의 결정트리(Decision Tree)를 활용한 배깅 방식의 대표적인 알고리즘
 
-![image.png](attachment:image.png)
+![image](https://github.com/kkobooc/futureinsight/assets/67237187/d00a4890-1908-4dfc-865d-f6a532602f5b)
 
 - 장점
     - 결정 트리의 쉽고 직관적인 장점을 그대로 가지고 있음
